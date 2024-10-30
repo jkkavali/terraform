@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ansible"
+		},
+		{
+			"path": "../python"
+		},
+		{
+			"path": "../expense-shell"
+		},
+		{
+			"path": "../devops-projects"
+		}
+	],
+	"settings": {}
+}
